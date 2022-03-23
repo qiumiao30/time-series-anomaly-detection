@@ -30,10 +30,10 @@
 - Recall
 - F1
 - AUC
-### Best F1
-### Val_max F1
-### Pot F1
-### Epsilon F1
+### 3.1 Best F1
+### 3.2 Val_max F1
+### 3.3 Pot F1
+### 3.4 Epsilon F1
 
 ## 4. Point Adjust & Point Adjust %K & Original
 
