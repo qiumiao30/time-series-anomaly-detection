@@ -26,13 +26,14 @@
   - [2020 Skoltech's SKAB](https://github.com/waico/SkAB)
   - [2018 AIOps's KPI-Anomaly-Detection](https://github.com/NetManAIOps/KPI-Anomaly-Detection)
 ## 3. Evaluate
+### 3.1 Metrics
 - Precision
 - Recall
 - F1
 - AUC
-### 3.1 Label-Based Threshold Search
+### 3.2 Label-Based Threshold Search
 - Best F1
-### 3.2 Thresholds Search without labels
+### 3.3 Thresholds Search without labels
 - Val_max F1
 - Pot F1
 - Epsilon F1
