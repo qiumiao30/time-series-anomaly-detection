@@ -26,10 +26,10 @@
   - [2020 Skoltech's SKAB](https://github.com/waico/SkAB)
   - [2018 AIOps's KPI-Anomaly-Detection](https://github.com/NetManAIOps/KPI-Anomaly-Detection)
 ## Evaluate
-- **Precision** 
-- **Recall**
-- **F1**
-- **AUC**
+- Precision
+- Recall
+- F1
+- AUC
 ### Best F1
 ### val_max F1
 ### Pot F1
