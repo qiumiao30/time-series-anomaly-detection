@@ -31,6 +31,9 @@
 - F1
 - AUC
 ### Best F1
-### val_max F1
+### Val_max F1
 ### Pot F1
 ### Epsilon F1
+
+## Point Adjust & Point Adjust %K % Original
+
