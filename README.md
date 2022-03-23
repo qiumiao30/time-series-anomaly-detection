@@ -30,10 +30,12 @@
 - Recall
 - F1
 - AUC
-### 3.1 Label-Based Threshold Search---Best F1
-### 3.2 Thresholds without labels---Val_max F1
-### 3.3 Thresholds without labels---Pot F1
-### 3.4 Thresholds without labels---Epsilon F1
+### 3.1 Label-Based Threshold Search
+- Best F1
+### 3.2 Thresholds Search without labels
+- Val_max F1
+- Pot F1
+- Epsilon F1
 
 ## 4. Point Adjust & Point Adjust %K & Original
 
