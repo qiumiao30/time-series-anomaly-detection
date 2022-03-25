@@ -19,7 +19,7 @@
 - **SMD:** [Dataset Download and Introduction](https://github.com/NetManAIOps/OmniAnomaly)
 - **ASD:** [Dataset Download and Introduction](https://github.com/zhhlee/InterFusion/tree/main/data)
 - **PSM:** [Dataset Download and Introduction](https://github.com/eBay/RANSynCoders/tree/main/data)
-- **Wind Turbines:** To be update
+- **Wind Turbines:** [Dataset Download and Introduction](https://github.com/zhanjun717/STGAT/tree/main/data/WT)
 - **Others:**
   - [Numenta's NAB](https://github.com/numenta/NAB)
   - [Yahoo's Webscope S5---Download Harder](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
