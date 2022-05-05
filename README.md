@@ -31,10 +31,11 @@
 - Recall
 - F1
 - AUC
-### 3.2 Label-Based Threshold Search
+### 3.2 
+#### 3.2.1 Label-Based Threshold Search
 - Best F1
-### 3.3 Thresholds Search without labels
-- Val_max F1
+#### 3.2.2 Thresholds Search without labels
+- Val_max(Train_max) F1
 - Pot F1
 - Epsilon F1
 
