@@ -38,9 +38,7 @@
 |                 |     Abnormal        |    Normal    |
 |     Abnormal        |     TP          |     FN      |
 |     Normal        |     FP          |     TN      |
-- Precision
-
- $P=\frac{TP}{TP+FP}$
+- Precision $P=\frac{TP}{TP+FP}$
  
 - Recall
 - F1
