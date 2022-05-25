@@ -7,16 +7,16 @@
 |---|------|------|----------|-------|---------|
 |   |  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)|correlations， R  |   2019  |  AAAI   |
 |   |  Graph Neural Network-Based Anomaly Detection in Multivariate Time Series |   [GDN](https://github.com/d-ailin/GDN)|  sensor relationships, P |  2021   |  AAAI     |  
-|   |  Multivariate Time-series Anomaly Detection via Graph Attention Network  |  [MTAD_GAT]()|     sensor relationships    |    2020   |   ICDM      |
+|   |  Multivariate Time-series Anomaly Detection via Graph Attention Network  |  [MTAD_GAT](https://github.com/mangushev/mtad-gat)|     sensor relationships    |    2020   |   ICDM      |
 |   |  USAD : UnSupervised Anomaly Detection on Multivariate Time Series   |   [USAD](https://github.com/manigalati/usad)|      adversarial, R    |   2020    |   2020      |
-|   |      |   [MAD_GAN]() |          |       |         |
-|   |      |  [OmniAnomaly]() |          |       |         |
-|   |      |  [DAGMM]() |          |       |         |
-|   |      |  [TKDE]() |          |       |         |
-|   |      |  [Anomaly Transformer]()|          |       |         |
-|   |      |  [THOC]()|          |       |         |
-|   |      |  [DAGMM]()|          |       |         |
-|   |      |  [DAGMM]()|          |       |         |
+|   |      |   [MAD_GAN](https://github.com/LiDan456/MAD-GANs) |          |       |         |
+|   |      |  [OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly) |          |       |         |
+|   |      |  [DAGMM](https://github.com/danieltan07/dagmm) |          |       |         |
+|   |      |  [TranAD]() |          |       |         |
+|   |      |  [Anomaly Transformer](https://github.com/thuml/Anomaly-Transformer)|          |       |         |
+|   |      |  THOC(None)|          |       |         |
+|   |      |  CAE-M(None)|          |       |         |
+|   |  Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT    |  [GTA](https://github.com/ZEKAICHEN/GTA/tree/main/data)|          |    2021   |     IoTJ    |
 |   |      |  [DAGMM]()|          |       |         |
 
 ## 2. Datasets
