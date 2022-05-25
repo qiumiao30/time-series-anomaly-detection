@@ -46,7 +46,7 @@
 
 - **AUC:** $\mathrm{TPR}=\frac{TP}{TP+FN}$, $\mathrm{FPR}=\frac{FP}{TN+FP}$
 
-### 3.2 
+### 3.2 Threshold 
 #### 3.2.1 Label-Based Threshold Search
 - Best F1
 #### 3.2.2 Thresholds Search without labels
