@@ -38,11 +38,14 @@
 |                 |     Abnormal        |    Normal    |
 |     Abnormal        |     TP          |     FN      |
 |     Normal        |     FP          |     TN      |
-- Precision $P=\frac{TP}{TP+FP}$
- 
-- Recall
-- F1
-- AUC
+- **Precision:** $P=\frac{TP}{TP+FP}$
+- **Recall:** $R=\frac{TP}{TP+FN}$
+- **F1:** $F1=\frac{2\times P\times R}{P+R}$
+- **AUC:**
+
+$$\mathrm{TPR}=\frac{TP}{TP+FN}$$
+$$\mathrm{FPR}=\frac{FP}{TN+FP}$$
+
 ### 3.2 
 #### 3.2.1 Label-Based Threshold Search
 - Best F1
