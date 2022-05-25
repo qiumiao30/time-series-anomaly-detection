@@ -39,6 +39,7 @@
 |     Abnormal        |     TP          |     FN      |
 |     Normal        |     FP          |     TN      |
 - Precision
+ $$P=\frac{TP}{TP+FP}$$
 - Recall
 - F1
 - AUC
