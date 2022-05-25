@@ -5,7 +5,7 @@
 ## 1. Papers
 |   | Name | Code | Key word | Year  | published |
 |---|------|------|----------|-------|---------|
-|   |  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  https://github.com/search?q=MSCRED  |   inter-correlations， AE  |   2019  |  AAAI   |
+|   |  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)  |inter-correlations， AE  |   2019  |  AAAI   |
 |   |      |      |          |       |         |
 |   |      |      |          |       |         |
 |   |      |      |          |       |         |
