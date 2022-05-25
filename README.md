@@ -5,13 +5,19 @@
 ## 1. Papers
 |   | Name | Code | Key word | Year  | Published |
 |---|------|------|----------|-------|---------|
-|   |  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)  |correlations， AE  |   2019  |  AAAI   |
-|    |  Graph Neural Network-Based Anomaly Detection in Multivariate Time Series |   [GDN](https://github.com/d-ailin/GDN)   |  sensor relationships |  2021   |  AAAI     |  
-|   |    Multivariate Time-series Anomaly Detection via Graph Attention Network  |  [MTAD_GAT]()    |     sensor relationships    |    2021   |         |
-|   |      |      |          |       |         |
-|   |      |      |          |       |         |
-|   |      |      |          |       |         |
-|   |      |      |          |       |         |
+|   |  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)  |correlations， R  |   2019  |  AAAI   |
+|   |  Graph Neural Network-Based Anomaly Detection in Multivariate Time Series |   [GDN](https://github.com/d-ailin/GDN)   |  sensor relationships, P |  2021   |  AAAI     |  
+|   |  Multivariate Time-series Anomaly Detection via Graph Attention Network  |  [MTAD_GAT]()    |     sensor relationships    |    2020   |   ICDM      |
+|   |  USAD : UnSupervised Anomaly Detection on Multivariate Time Series   |   [USAD](https://github.com/manigalati/usad)   |      adversarial, R    |   2020    |   2020      |
+|   |      |   [MAD_GAN]()   |          |       |         |
+|   |      |  [OmniAnomaly]()    |          |       |         |
+|   |      |  [DAGMM]()    |          |       |         |
+|   |      |  [TKDE]()    |          |       |         |
+|   |      |  [Anomaly Transformer]()    |          |       |         |
+|   |      |  [THOC]()    |          |       |         |
+|   |      |  [DAGMM]()    |          |       |         |
+|   |      |  [DAGMM]()    |          |       |         |
+|   |      |  [DAGMM]()    |          |       |         |
 
 ## 2. Datasets
 - **SWaT & WaDI:** [SWaT Dataset Download](https://itrust.sutd.edu.sg/itrust-labs_datasets/), [SWaT Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/), [WaDI Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_wadi/)
