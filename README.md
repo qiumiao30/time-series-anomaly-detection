@@ -62,6 +62,7 @@
 - Best F1
 #### 3.2.2 Thresholds Search without labels
 - Val_max(Train_max) F1
+ Max(|ground-truth - predict/reconstruction value|)
 - Pot F1
 - Epsilon F1
 
