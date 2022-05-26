@@ -5,9 +5,9 @@
 ## 1. Papers
 |   | Name | Code | Key word | Year  | Published |
 |---|------|------|----------|-------|---------|
-|   |  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)|correlations  |   2019  |  AAAI   |
+|   |  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)|correlations  |     |  AAAI'19   |
 |   |  Graph Neural Network-Based Anomaly Detection in Multivariate Time Series |   [GDN](https://github.com/d-ailin/GDN)|  sensor relationships|     |  AAAI'21     |  
-|   |  Multivariate Time-series Anomaly Detection via Graph Attention Network  |  [MTAD_GAT](https://github.com/mangushev/mtad-gat)|     sensor relationships    |    2020   |   ICDM      |
+|   |  Multivariate Time-series Anomaly Detection via Graph Attention Network  |  [MTAD_GAT](https://github.com/mangushev/mtad-gat)|     sensor relationships    |      |   ICDM'20      |
 |   |  USAD : UnSupervised Anomaly Detection on Multivariate Time Series   |   [USAD](https://github.com/manigalati/usad)|      adversarial    |      |   KDD'20    |
 |   |      |   [MAD_GAN](https://github.com/LiDan456/MAD-GANs) |          |       |         |
 |   |      |  [OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly) |          |       |         |
