@@ -12,7 +12,6 @@
     - [4.2.2 Thresholds Search without labels](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#422-thresholds-search-without-labels)
 - [5. Point Adjust & Point Adjust %K & Original](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#4-point-adjust--point-adjust-k--original)
 
-
 ## 1. Papers
 
 | Name | Code | Key word |   Published |
