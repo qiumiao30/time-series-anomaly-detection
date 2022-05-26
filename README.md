@@ -68,12 +68,9 @@
 |     Abnormal        |     TP          |     FN      |
 |     Normal        |     FP          |     TN      |
 
-- **Precision:** $P=\frac{TP}{TP+FP}$
-
+- **Precision: ** $P=\frac{TP}{TP+FP}$
 - **Recall:** $R=\frac{TP}{TP+FN}$
-
 - **F1:** $F1=\frac{2\times P\times R}{P+R}$
-
 - **AUC:** $\mathrm{TPR}=\frac{TP}{TP+FN}$, $\mathrm{FPR}=\frac{FP}{TN+FP}$
 
 ### 4.2 Threshold 
