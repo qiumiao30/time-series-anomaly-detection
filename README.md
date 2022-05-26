@@ -27,7 +27,7 @@
 |   |      |  []()|          |       |        |
 
 ## 2. Datasets
-- **SWaT & WaDI:** [SWaT Dataset Download](https://itrust.sutd.edu.sg/itrust-labs_datasets/), [SWaT Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/), [WaDI Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_wadi/)  [**Processed**](https://itrust.sutd.edu.sg/itrust-labs_datasets/)
+- **SWaT & WaDI:** [SWaT Dataset Download](https://itrust.sutd.edu.sg/itrust-labs_datasets/), [SWaT Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/), [WaDI Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_wadi/)  | [**Processed**](https://itrust.sutd.edu.sg/itrust-labs_datasets/)
 - **MSL & SMAP:** [Dataset Download and Introduction](https://github.com/khundman/telemanom)
 - **SMD:** [Dataset Download and Introduction](https://github.com/NetManAIOps/OmniAnomaly)
 - **ASD:** [Dataset Download and Introduction](https://github.com/zhhlee/InterFusion/tree/main/data)
