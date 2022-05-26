@@ -2,8 +2,8 @@
 
 > List of papers & datasets for anomaly detection on multivariate time-series data.
 # Contents
-- [Papers][https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#1-papers]
-- [Books][https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#1-]
+- [Papers](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#1-papers)
+- [Books](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#books)
 
 ## 1. Papers
 
