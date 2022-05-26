@@ -3,6 +3,7 @@
 > List of papers & datasets for anomaly detection on multivariate time-series data.
 
 ## 1. Papers
+[toc]
 | Name | Code | Key word |   Published |
 |------|------|----------|---------|
 |  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)|correlations    |  AAAI'19   |
@@ -27,6 +28,7 @@
 |      |  []()|          |           |
 
 ## Book
+[toc]
 - [Outlier Analysis](https://link.springer.com/content/pdf/10.1007/978-3-319-47578-3.pdf)
 - [Introduction to Time Series and  Forecasting, Second Edition](http://home.iitj.ac.in/~parmod/document/introduction%20time%20series.pdf)
 - [Anomaly Detection Principles and Algorithms](https://link.springer.com/content/pdf/10.1007/978-3-319-67526-8.pdf)
@@ -55,6 +57,7 @@
 |                 |     Abnormal        |    Normal    |
 |     Abnormal        |     TP          |     FN      |
 |     Normal        |     FP          |     TN      |
+
 - **Precision:** $P=\frac{TP}{TP+FP}$
 
 - **Recall:** $R=\frac{TP}{TP+FN}$
