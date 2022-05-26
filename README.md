@@ -12,7 +12,7 @@
 |   |  MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks    |   [MAD_GAN](https://github.com/LiDan456/MAD-GANs) |          |       |    ICANN'19     |
 |   |   Robust anomaly detection for multivariate time series through stochastic recurrent neural network   |  [OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly) |          |       |    KDD'19     |
 |   |   Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection   |  [DAGMM](https://github.com/danieltan07/dagmm) |          |       | ICLR'18  |
-|   |   TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data   |  [TranAD]() |          |       |     None   |
+|   |   TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data   |  [TranAD]() |          |       |     arxiv   |
 |   |    Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy  |  [Anomaly Transformer](https://github.com/thuml/Anomaly-Transformer)|          |       |    ICLR'22     |
 |   |  Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network Lifeng    |  THOC(None)|          |       |         |
 |   |   Unsupervised Deep Anomaly Detection for Multi-Sensor Time-Series Signals   |  CAE-M(None)|          |       |    TKDE'21     |
