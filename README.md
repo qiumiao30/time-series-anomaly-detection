@@ -26,6 +26,12 @@
 |      |  []()|          |           |
 |      |  []()|          |           |
 
+## Book
+- [Outlier Analysis](https://link.springer.com/content/pdf/10.1007/978-3-319-47578-3.pdf)
+- [Introduction to Time Series and  Forecasting, Second Edition](http://home.iitj.ac.in/~parmod/document/introduction%20time%20series.pdf)
+- [Anomaly Detection Principles and Algorithms](https://link.springer.com/content/pdf/10.1007/978-3-319-67526-8.pdf)
+- [Outlier Ensembles An Introduction](https://link.springer.com/content/pdf/10.1007/978-3-319-54765-7.pdf)
+
 ## 2. Datasets
 - **SWaT & WaDI:** [SWaT Dataset Download](https://itrust.sutd.edu.sg/itrust-labs_datasets/), [SWaT Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/), [WaDI Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_wadi/)  | [**data_preprocess**](https://itrust.sutd.edu.sg/itrust-labs_datasets/)
 - **MSL & SMAP:** [Dataset Download and Introduction](https://github.com/khundman/telemanom)  | [**data_preprocess**](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/preprocess.py#:~:text=dataset%20%3D%3D%20%27-,SMAP,-%27%20or%20dataset)
