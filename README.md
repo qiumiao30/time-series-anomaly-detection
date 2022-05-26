@@ -2,7 +2,7 @@
 
 > List of papers & datasets for anomaly detection on multivariate time-series data.
 
-## 1. Papers[toc]
+## 1. Papers
 
 | Name | Code | Key word |   Published |
 |------|------|----------|---------|
@@ -27,8 +27,7 @@
 |      |  []()|          |           |
 |      |  []()|          |           |
 
-## Book
-[toc]
+[toc]## Book
 - [Outlier Analysis](https://link.springer.com/content/pdf/10.1007/978-3-319-47578-3.pdf)
 - [Introduction to Time Series and  Forecasting, Second Edition](http://home.iitj.ac.in/~parmod/document/introduction%20time%20series.pdf)
 - [Anomaly Detection Principles and Algorithms](https://link.springer.com/content/pdf/10.1007/978-3-319-67526-8.pdf)
