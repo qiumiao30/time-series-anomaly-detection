@@ -6,7 +6,9 @@
 - [Books](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#books)
 - [Datasets](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#2-datasets)
 - [Evaluate](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#3-evaluate)
-  -
+- -[metrics](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#31-metrics)
+- -[threshold](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#32-threshold)
+
 
 ## 1. Papers
 
