@@ -32,6 +32,7 @@
 - **SMD:** [Dataset Download and Introduction](https://github.com/NetManAIOps/OmniAnomaly)
 - **ASD:** [Dataset Download and Introduction](https://github.com/zhhlee/InterFusion/tree/main/data)
 - **PSM:** [Dataset Download and Introduction](https://github.com/eBay/RANSynCoders/tree/main/data)
+- **KDDCup99:** [Dataset Download and Introduction](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 - **Wind Turbines:** [Dataset Download and Introduction](https://github.com/zhanjun717/STGAT/tree/main/data/WT)
 - **Others:**
   - [Numenta's NAB](https://github.com/numenta/NAB)
