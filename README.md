@@ -2,15 +2,15 @@
 
 > List of papers & datasets for anomaly detection on multivariate time-series data.
 # Contents
-- [1. Papers](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#1-papers)
-- [2. Books](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#2-books)
-- [3. Datasets](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#3-datasets)
-- [4. Evaluate](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#4-evaluate)
-  - [4.1 Metrics](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#41-metrics)
-  - [4.2 Threshold](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#42-threshold)
-    - [4.2.1 Label-Based Threshold Search](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#421-label-based-threshold-search)
-    - [4.2.2 Thresholds Search without labels](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#422-thresholds-search-without-labels)
-- [5. Point Adjust & Point Adjust %K & Original](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#5-point-adjust--point-adjust-k--original)
+- [1. Papers](https://github.com/qiumiao30/time-series-anomaly-detection#1-papers)
+- [2. Books](https://github.com/qiumiao30/time-series-anomaly-detection#2-books)
+- [3. Datasets](https://github.com/qiumiao30/time-series-anomaly-detection#3-datasets)
+- [4. Evaluate](https://github.com/qiumiao30/time-series-anomaly-detection#4-evaluate)
+  - [4.1 Metrics](https://github.com/qiumiao30/time-series-anomaly-detection#41-metrics)
+  - [4.2 Threshold](https://github.com/qiumiao30/time-series-anomaly-detection#42-threshold)
+    - [4.2.1 Label-Based Threshold Search](https://github.com/qiumiao30/time-series-anomaly-detection#421-label-based-threshold-search)
+    - [4.2.2 Thresholds Search without labels](https://github.com/qiumiao30/time-series-anomaly-detection#422-thresholds-search-without-labels)
+- [5. Point Adjust & Point Adjust %K & Original](https://github.com/qiumiao30/time-series-anomaly-detection#5-point-adjust--point-adjust-k--original)
 
 ## 1. Papers
 
