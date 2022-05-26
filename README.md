@@ -2,13 +2,13 @@
 
 > List of papers & datasets for anomaly detection on multivariate time-series data.
 # Contents
-- [1.1 Papers](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#1-papers)
-- [1.2 Books](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#books)
-- [2. Datasets](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#2-datasets)
-- [3. Evaluate](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#3-evaluate)
-  - [3.1 Metrics](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#31-metrics)
-  - [3.2 Threshold](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#32-threshold)
-- [4. Point Adjust & Point Adjust %K & Original](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#4-point-adjust--point-adjust-k--original)
+- [1. Papers](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#1-papers)
+- [2. Books](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#books)
+- [3. Datasets](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#2-datasets)
+- [4. Evaluate](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#3-evaluate)
+  - [4.1 Metrics](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#31-metrics)
+  - [4.2 Threshold](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#32-threshold)
+- [5. Point Adjust & Point Adjust %K & Original](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#4-point-adjust--point-adjust-k--original)
 
 
 ## 1. Papers
@@ -36,13 +36,13 @@
 |      |  []()|          |           |
 |      |  []()|          |           |
 
-## Books
+## 2. Books
 - [Outlier Analysis](https://link.springer.com/content/pdf/10.1007/978-3-319-47578-3.pdf)
 - [Introduction to Time Series and  Forecasting, Second Edition](http://home.iitj.ac.in/~parmod/document/introduction%20time%20series.pdf)
 - [Anomaly Detection Principles and Algorithms](https://link.springer.com/content/pdf/10.1007/978-3-319-67526-8.pdf)
 - [Outlier Ensembles An Introduction](https://link.springer.com/content/pdf/10.1007/978-3-319-54765-7.pdf)
 
-## 2. Datasets
+## 3. Datasets
 - **SWaT & WaDI:** [SWaT Dataset Download](https://itrust.sutd.edu.sg/itrust-labs_datasets/), [SWaT Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/), [WaDI Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_wadi/)  | [**data_preprocess**](https://itrust.sutd.edu.sg/itrust-labs_datasets/)
 - **MSL & SMAP:** [Dataset Download and Introduction](https://github.com/khundman/telemanom)  | [**data_preprocess**](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/preprocess.py#:~:text=dataset%20%3D%3D%20%27-,SMAP,-%27%20or%20dataset)
 - **SMD:** [Dataset Download and Introduction](https://github.com/NetManAIOps/OmniAnomaly) | [**data_preprocess**](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/preprocess.py#:~:text=dataset%20%3D%3D%20%27-,SMD,-%27%3A)
@@ -58,8 +58,8 @@
   - [Yahoo's Webscope S5---Download Harder](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
   - [2020 Skoltech's SKAB](https://github.com/waico/SkAB)
   - [2018 AIOps's KPI-Anomaly-Detection](https://github.com/NetManAIOps/KPI-Anomaly-Detection)
-## 3. Evaluate
-### 3.1 Metrics
+## 4. Evaluate
+### 4.1 Metrics
 |     Ground truth    |     Predict      |   Predict      |
 |:-----------------:|:-----------------:|:-------------:|
 |                 |     Abnormal        |    Normal    |
@@ -74,18 +74,15 @@
 
 - **AUC:** $\mathrm{TPR}=\frac{TP}{TP+FN}$, $\mathrm{FPR}=\frac{FP}{TN+FP}$
 
-### 3.2 Threshold 
-#### 3.2.1 Label-Based Threshold Search
+### 4.2 Threshold 
+#### 4.2.1 Label-Based Threshold Search
 - Best F1
-#### 3.2.2 Thresholds Search without labels
+#### 4.2.2 Thresholds Search without labels
 - Val_max(Train_max) F1
-
- $$Max(|groundtruth - predict/reconstruction|)$$
- 
 - Pot F1
 - Epsilon F1
 
-## 4. Point Adjust & Point Adjust %K & Original
+## 5. Point Adjust & Point Adjust %K & Original
 - Point Adjust
 
 ![point adjust](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/image/point%20adjust.png)
