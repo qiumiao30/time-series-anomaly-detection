@@ -61,6 +61,7 @@
   - [2018 AIOps's KPI-Anomaly-Detection](https://github.com/NetManAIOps/KPI-Anomaly-Detection)
 ## 4. Evaluate
 ### 4.1 Metrics
+
 |     Ground truth    |     Predict      |   Predict      |
 |:-----------------:|:-----------------:|:-------------:|
 |                 |     Abnormal        |    Normal    |
