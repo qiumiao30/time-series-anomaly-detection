@@ -15,7 +15,7 @@
 |   TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data   |  [TranAD](https://github.com/imperial-qore/TranAD) |             |     VLDB'22  |
 |    Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy  |  [Anomaly Transformer](https://github.com/thuml/Anomaly-Transformer)|          |          ICLR'22     |
 |  Timeseries Anomaly Detection using Temporal Hierarchical One-Class Network Lifeng    |  THOC(None)|          |       NeurIPS'20      |
-|   Unsupervised Deep Anomaly Detection for Multi-Sensor Time-Series Signals   |  CAE-M(None)|                   TKDE'21     |
+|   Unsupervised Deep Anomaly Detection for Multi-Sensor Time-Series Signals   |  CAE-M(None)|                  | TKDE'21     |
 |  Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT    |  [GTA](https://github.com/ZEKAICHEN/GTA/tree/main/data)|          |          IoTJ'21    |
 |  Multivariate Time Series Anomaly Detection and Interpretation using Hierarchical Inter-Metric and Temporal Embedding    |  [InterFusion](https://github.com/zhhlee/InterFusion)|               |   KDD'21      |
 |   Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding   |  [LSTM-NDT](https://github.com/khundman/telemanom)|          |    KDD'18    |
