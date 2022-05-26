@@ -3,8 +3,8 @@
 > List of papers & datasets for anomaly detection on multivariate time-series data.
 
 ## 1. Papers
-[toc]
-| Name | Code | Key word |   Published |
+
+[toc]| Name | Code | Key word |   Published |
 |------|------|----------|---------|
 |  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)|correlations    |  AAAI'19   |
 |  Graph Neural Network-Based Anomaly Detection in Multivariate Time Series |   [GDN](https://github.com/d-ailin/GDN)|  sensor relationships|       AAAI'21     |  
