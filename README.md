@@ -4,6 +4,9 @@
 # Contents
 - [Papers](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#1-papers)
 - [Books](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#books)
+- [Datasets](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#2-datasets)
+- [Evaluate](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#3-evaluate)
+  -
 
 ## 1. Papers
 
