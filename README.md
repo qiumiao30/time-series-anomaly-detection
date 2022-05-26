@@ -27,8 +27,8 @@
 |   |      |  []()|          |       |        |
 
 ## 2. Datasets
-- **SWaT & WaDI:** [SWaT Dataset Download](https://itrust.sutd.edu.sg/itrust-labs_datasets/), [SWaT Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/), [WaDI Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_wadi/)  | [**Processed**](https://itrust.sutd.edu.sg/itrust-labs_datasets/)
-- **MSL & SMAP:** [Dataset Download and Introduction](https://github.com/khundman/telemanom)
+- **SWaT & WaDI:** [SWaT Dataset Download](https://itrust.sutd.edu.sg/itrust-labs_datasets/), [SWaT Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_swat/), [WaDI Dataset Introduce](https://itrust.sutd.edu.sg/itrust-labs-home/itrust-labs_wadi/)  | [**data_preprocess**](https://itrust.sutd.edu.sg/itrust-labs_datasets/)
+- **MSL & SMAP:** [Dataset Download and Introduction](https://github.com/khundman/telemanom)  | [**data_preprocess**](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/preprocess.py#:~:text=dataset%20%3D%3D%20%27-,SMAP,-%27%20or%20dataset)
 - **SMD:** [Dataset Download and Introduction](https://github.com/NetManAIOps/OmniAnomaly) | [**data_preprocess**](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/preprocess.py#:~:text=dataset%20%3D%3D%20%27-,SMD,-%27%3A)
 - **ASD:** [Dataset Download and Introduction](https://github.com/zhhlee/InterFusion/tree/main/data)
 - **PSM:** [Dataset Download and Introduction](https://github.com/eBay/RANSynCoders/tree/main/data)
