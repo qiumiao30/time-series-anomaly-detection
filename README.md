@@ -67,14 +67,13 @@
 |                 |     Abnormal        |    Normal    |
 |     Abnormal        |     TP          |     FN      |
 |     Normal        |     FP          |     TN      |
+1. **Precision:** $P=\frac{TP}{TP+FP}$
 
-- **Precision:** $P=\frac{TP}{TP+FP}$
+2. **Recall:** $R=\frac{TP}{TP+FN}$
 
-- **Recall:** $R=\frac{TP}{TP+FN}$
+3. **F1:** $F1=\frac{2\times P\times R}{P+R}$
 
-- **F1:** $F1=\frac{2\times P\times R}{P+R}$
-
-- **AUC:** $\mathrm{TPR}=\frac{TP}{TP+FN}$, $\mathrm{FPR}=\frac{FP}{TN+FP}$
+4. **AUC:** $\mathrm{TPR}=\frac{TP}{TP+FN}$, $\mathrm{FPR}=\frac{FP}{TN+FP}$
 
 ### 4.2 Threshold 
 #### 4.2.1 Label-Based Threshold Search
