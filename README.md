@@ -8,6 +8,8 @@
 - [4. Evaluate](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#3-evaluate)
   - [4.1 Metrics](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#31-metrics)
   - [4.2 Threshold](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#32-threshold)
+    - [4.2.1 Label-Based Threshold Search](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#421-label-based-threshold-search)
+    - [4.2.2 Thresholds Search without labels](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#422-thresholds-search-without-labels)
 - [5. Point Adjust & Point Adjust %K & Original](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/README.md#4-point-adjust--point-adjust-k--original)
 
 
