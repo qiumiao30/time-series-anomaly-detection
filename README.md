@@ -74,13 +74,14 @@
 
 - **F1:** $F1=\frac{2\times P\times R}{P+R}$
 
-- **AUC:** $\mathrm{TPR}=\frac{TP}{TP+FN}$, $\mathrm{FPR}=\frac{FP}{TN+FP}$
+- **AUC:** $\mathrm{TPR}=\frac{TP}{TP+FN}$ $\mathrm{FPR}=\frac{FP}{TN+FP}$
 
 ### 4.2 Threshold 
 #### 4.2.1 Label-Based Threshold Search
 - Best F1
 #### 4.2.2 Thresholds Search without labels
 - Val_max(Train_max) F1
+**3 sigma rule：** Val_max(Train_val) $\approx$ mean + 3 \times std  
 - Pot F1
 - Epsilon F1
 
