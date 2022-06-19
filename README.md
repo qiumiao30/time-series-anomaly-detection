@@ -81,7 +81,9 @@
 - Best F1
 #### 4.2.2 Thresholds Search without labels
 - Val_max(Train_max) F1
-**3 sigma rule：** Val_max(Train_val) $\approx$ mean + 3 \times std  
+
+**3 sigma rule：** Val_max(Train_val) $\approx$ mean + 3 $\times$ std
+
 - Pot F1
 - Epsilon F1
 
