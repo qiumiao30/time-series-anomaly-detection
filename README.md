@@ -80,7 +80,7 @@
 #### 4.2.1 Label-Based Threshold Search
 - Best F1
 #### 4.2.2 Thresholds Search without labels
-- Val_max(Train_max) F1
+- $Val_{max}(Train_{max})$ F1
 
 **3 sigma rule：**  $Val_{max}(Train_{max}) \approx mean + 3  \times std$
 
