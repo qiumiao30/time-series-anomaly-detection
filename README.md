@@ -14,7 +14,9 @@
 
 ## 1. Papers
 
+<center>
 ![Basic Problems](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/image/anomaly%20detection.png)
+</center>
 
 | Name | Code | Key word |   Published |
 |------|------|----------|---------|
@@ -92,4 +94,6 @@
 ## 5. Point Adjust & Point Adjust %K & Original
 - Point Adjust
 
+<center>
 ![point adjust](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/image/point%20adjust.png)
+</center>
