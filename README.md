@@ -14,6 +14,8 @@
 
 ## 1. Papers
 
+![Basic Problems](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/image/anomaly%20detection.png)
+
 | Name | Code | Key word |   Published |
 |------|------|----------|---------|
 |  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)|correlations    |  AAAI'19   |
