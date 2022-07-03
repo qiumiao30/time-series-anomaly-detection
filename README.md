@@ -15,9 +15,8 @@
 ## 1. Papers
 
 <div style="text-align: center">
-<img src="[url](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/image/anomaly%20detection.png)"/>
+<img src="https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/image/anomaly%20detection.png"/>
 </div>
-
 
 | Name | Code | Key word |   Published |
 |------|------|----------|---------|
@@ -96,6 +95,5 @@
 - Point Adjust
 
 <div style="text-align: center">
-<img src="[url](https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/image/point%20adjust.png)"/>
+<img src="https://github.com/qiumiao30/time-series-anomaly-detection/blob/main/image/point%20adjust.png"/>
 </div>
-
