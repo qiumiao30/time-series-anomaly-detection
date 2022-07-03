@@ -20,9 +20,9 @@
 
 | Name | Code | Key word |   Published |
 |------|------|----------|---------|
-|  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)|correlations    |  AAAI'19   |
-|  Graph Neural Network-Based Anomaly Detection in Multivariate Time Series |   [GDN](https://github.com/d-ailin/GDN)|  sensor relationships|       AAAI'21     |  
-|  Multivariate Time-series Anomaly Detection via Graph Attention Network  |  [MTAD_GAT](https://github.com/mangushev/mtad-gat)|     sensor relationships         |   ICDM'20      |
+|  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data |  [MSCRED](https://github.com/search?q=MSCRED)|CH2    |  AAAI'19   |
+|  Graph Neural Network-Based Anomaly Detection in Multivariate Time Series |   [GDN](https://github.com/d-ailin/GDN)|  CH2|       AAAI'21     |  
+|  Multivariate Time-series Anomaly Detection via Graph Attention Network  |  [MTAD_GAT](https://github.com/mangushev/mtad-gat)|     CH2         |   ICDM'20      |
 |  USAD : UnSupervised Anomaly Detection on Multivariate Time Series   |   [USAD](https://github.com/manigalati/usad)|      adversarial    |        KDD'20    |
 |  MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks    |   [MAD_GAN](https://github.com/LiDan456/MAD-GANs) |          |          ICANN'19     |
 |   Robust anomaly detection for multivariate time series through stochastic recurrent neural network   |  [OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly) |          |          KDD'19     |
